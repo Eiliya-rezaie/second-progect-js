@@ -1,0 +1,14 @@
+{
+  "name": "second-js",
+  "version": "1.0.0",
+  "description": "functional",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eiliya"
+  ],
+  "author": "eiliya rezaie",
+  "license": "ISC"
+}
